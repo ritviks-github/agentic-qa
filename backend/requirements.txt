@@ -1,0 +1,8 @@
+pydantic
+uvicorn 
+fastapi
+playwright
+pandas
+dotenv
+requests
+openpyxl

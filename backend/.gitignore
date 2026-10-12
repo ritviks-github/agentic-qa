@@ -1,0 +1,8 @@
+# Python / Backend
+backend/venv/
+backend/__pycache__/
+.env
+
+# Frontend
+test/loan-application-frontend/node_modules/
+test/loan-application-frontend/dist/
